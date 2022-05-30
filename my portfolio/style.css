@@ -1,0 +1,29 @@
+.thirthdiv{
+  border: solid black;
+  background-color:dimgrey;
+}
+.seconddiv{
+border: solid black;
+background-color:dimgrey;
+}
+.firstdiv{
+  border: solid black;
+  background-color:dimgrey;
+}
+body{
+  background-color: dimgrey;
+}
+.bio{
+ font-size: 20px;
+}
+.shortinfo{
+  width: 300px;
+  border: 2px solid #000000;
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  background-color: bisque;
+}
+.shortinfo img{
+  width: 300px;
+}
